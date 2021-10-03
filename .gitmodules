@@ -1,0 +1,3 @@
+[submodule "React-Native/carScreens"]
+	path = React-Native/carScreens
+	url = https://github.com/satyamsingh07/carScreens.git
